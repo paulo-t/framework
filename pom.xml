@@ -25,7 +25,7 @@
         <guava.version>28.1-jre</guava.version>
         <common-lang.version>3.9</common-lang.version>
         <fastjson.version>1.2.8</fastjson.version>
-        <mysql-connector.version>8.0.20</mysql-connector.version>
+        <mysql-connector.version>8.0.28</mysql-connector.version>
     </properties>
 
     <dependencies>
@@ -121,7 +121,7 @@
                     <dependency>
                         <groupId>mysql</groupId>
                         <artifactId>mysql-connector-java</artifactId>
-                        <version>8.0.20</version>
+                        <version>8.0.28</version>
                     </dependency>
                     <!--生成代码插件-->
                     <dependency>
